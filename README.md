@@ -7,9 +7,9 @@ This project classifies **PMGSY (Pradhan Mantri Gram Sadak Yojana)** schemes usi
 - **Class Balancing**: SMOTE (Synthetic Minority Oversampling)
 - **Feature Scaling**: StandardScaler
 - **Evaluation**:
-  - Training Accuracy: ~XX%
-  - Testing Accuracy: ~XX%
-  - 7-Fold Cross-Validation: ~XX%
+  - Training Accuracy: ~100%
+  - Testing Accuracy: ~91.06%
+  - 7-Fold Cross-Validation: ~90.26%
 - **Artifacts Saved**:  
   `pmgsy_rf_model.pkl`, `scaler.pkl`, `label_encoder.pkl`
 
